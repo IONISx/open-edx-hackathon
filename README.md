@@ -31,3 +31,7 @@ Le canal IRC officiel Open edX est `#edx-code` sur [Freenode](http://webchat.fre
 
 Pour poser vos questions, vous pouvez également utiliser la [liste de diffusion](http://groups.google.com/forum/#!forum/edx-code) de Open edX.
 
+
+## Organisation
+
+Ce hackathon est organisé par [IONISx](https://ionisx.com), [France Université Numérique](http://france-universite-numerique.fr) et [edX](https://edx.org).
