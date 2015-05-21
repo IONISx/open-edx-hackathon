@@ -1,5 +1,5 @@
 # Summary
 
-* [introduction](README.md)
+* [Introduction](README.md)
 * [Installer Open edX](installer-open-edx.md)
 
