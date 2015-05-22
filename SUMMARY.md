@@ -5,5 +5,6 @@
 * Open edX
    * Présentation
    * LMS
+   * Studio
 * [Installer Open edX](installer-open-edx.md)
 
