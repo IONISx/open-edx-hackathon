@@ -37,7 +37,7 @@ Enfin, utiliser une box Vagrant vous permettra d’éviter d’installer toutes 
 * Téléchargez le [Vagrantfile](https://ionisx.fr-1.storage.online.net/hack/Vagrantfile) (fichier de configuration de la box Vagrant) :
 
  ```shell
- curl -L https://ionisx.fr-1.storage.online.net/hack/Vagrantfile > Vagrantfile
+ curl -sL https://ionisx.fr-1.storage.online.net/hack/Vagrantfile > Vagrantfile
  ```
 
 * Installez le plugin [vbguest](https://github.com/dotless-de/vagrant-vbguest) de Vagrant :
