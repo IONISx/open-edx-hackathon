@@ -5,6 +5,6 @@
 * Open edX
    * [Présentation](open-edx/presentation.md)
    * [LMS](open-edx/lms.md)
-   * Studio
+   * [Studio](open-edx/studio.md)
 * [Installer Open edX](installer-open-edx.md)
 
