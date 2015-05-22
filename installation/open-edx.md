@@ -49,3 +49,5 @@ Enfin, utiliser une box Vagrant vous permettra d’éviter d’installer toutes 
  ```shell
  vagrant up
  ```
+
+* Il se peut que le mot de passe administrateur de votre machine soit demandé, si c’est le cas, saisissez-le.
