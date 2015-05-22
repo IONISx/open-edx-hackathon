@@ -1,2 +1,0 @@
-# Installer Open edX
-
