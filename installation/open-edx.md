@@ -1,4 +1,4 @@
-# Open edX
+# Installation de Open edX
 
 Open edX release environ une fois par semaine.
 
