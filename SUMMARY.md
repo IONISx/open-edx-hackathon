@@ -6,5 +6,4 @@
    * [Studio](open-edx/studio.md)
 * [Documentation](documentation.md)
 * [Installation](installation.md)
-   * [Thème](installation/theme.md)
 
