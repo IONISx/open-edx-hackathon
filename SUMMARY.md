@@ -4,7 +4,7 @@
 * [Documentation](documentation.md)
 * Open edX
    * [Présentation](open-edx/presentation.md)
-   * LMS
+   * [LMS](open-edx/lms.md)
    * Studio
 * [Installer Open edX](installer-open-edx.md)
 
