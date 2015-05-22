@@ -7,4 +7,5 @@
 * [Documentation](documentation.md)
 * [Installation](installation.md)
    * [Open edX](installation/open-edx.md)
+   * Theme
 
