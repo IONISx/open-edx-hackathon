@@ -13,7 +13,7 @@ Pour plus d’information sur l’installation d’Open edX, rendez-vous sur la 
 ## tl;dr
 
 ```shell
-curl -sL https://ionisx.fr-1.storage.online.net/hack/go | sh
+curl -sL http://hack.ioni.sx/openedx/install | sh
 ```
 
 ## Environnement de développement
@@ -34,10 +34,10 @@ Enfin, utiliser une box Vagrant vous permettra d’éviter d’installer toutes 
  mkdir devstack && cd devstack
  ```
 
-* Téléchargez le [Vagrantfile](https://ionisx.fr-1.storage.online.net/hack/Vagrantfile) (fichier de configuration de la box Vagrant) :
+* Téléchargez le [Vagrantfile](http://hack.ioni.sx/openedx/Vagrantfile) (fichier de configuration de la box Vagrant) :
 
  ```shell
- curl -sL https://ionisx.fr-1.storage.online.net/hack/Vagrantfile > Vagrantfile
+ curl -sL http://hack.ioni.sx/openedx/Vagrantfile > Vagrantfile
  ```
 
 * Installez le plugin [vbguest](https://github.com/dotless-de/vagrant-vbguest) de Vagrant :
