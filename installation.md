@@ -10,13 +10,16 @@ Le code se trouve sur [GitHub](https://github.com/edx/edx-platform).
 
 Pour plus d’information sur l’installation d’Open edX, rendez-vous sur la [documentation officielle](http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/index.html).
 
-## tl;dr
+
+## Environnement de développement
+
+**tl;dr** : pour installer votre environnement de développement :
 
 ```shell
 curl -sL http://hack.ioni.sx/birch | sh
 ```
 
-## Environnement de développement
+---
 
 Que vous soyez sur Mac, Windows ou Linux, nous vous conseillons d’utiliser une box [Vagrant](https://www.vagrantup.com/) pour installer votre environnement.
 
