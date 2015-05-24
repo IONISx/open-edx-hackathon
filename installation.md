@@ -29,7 +29,7 @@ Une box Vagrant est simplement une machine virtuelle pré-configurée. Il est po
 
 Enfin, utiliser une box Vagrant vous permettra d’éviter d’installer toutes les dépendances d’Open edX sur votre machine.
 
-## Installer Open edX Birch
+---
 
 * Créez un nouveau dossier de travail sur votre machine :
 
