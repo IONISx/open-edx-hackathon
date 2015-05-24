@@ -13,7 +13,7 @@ Pour plus d’information sur l’installation d’Open edX, rendez-vous sur la 
 ## tl;dr
 
 ```shell
-curl -sL http://hack.ioni.sx/openedx/install | sh
+curl -sL http://hack.ioni.sx/birch | sh
 ```
 
 ## Environnement de développement
@@ -37,7 +37,7 @@ Enfin, utiliser une box Vagrant vous permettra d’éviter d’installer toutes 
 * Téléchargez le [Vagrantfile](http://hack.ioni.sx/openedx/Vagrantfile) (fichier de configuration de la box Vagrant) :
 
  ```shell
- curl -sL http://hack.ioni.sx/openedx/Vagrantfile > Vagrantfile
+ curl -sL http://hack.ioni.sx/openedx/birch/Vagrantfile > Vagrantfile
  ```
 
 * Installez le plugin [vbguest](https://github.com/dotless-de/vagrant-vbguest) de Vagrant :
