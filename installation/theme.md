@@ -2,7 +2,7 @@
 
 Il est possible de personnaliser l’interface du LMS à l’aide de thèmes.
 
-En suivant le [guide d’installation de la plateforme](plateforme.md), vous avez le [thème IONISx](https://github.com/IONISx/edx-theme) installé par défaut.
+En suivant le [guide d’installation de la plateforme](plateforme.html), vous avez le [thème IONISx](https://github.com/IONISx/edx-theme) installé par défaut.
 
 
 ## Thème IONISx
@@ -34,5 +34,5 @@ Enfin, lancez `grunt` et laissez-le tourner dans un terminal.
 
 Grunt va observer les changements sur les fichiers et automatiquement recompiler les fichiers qui seront utilisés par le LMS.
 
-[Lancez le LMS](installation/plateforme.md) et naviguez sur [http://localhost:8000](http://localhost:8000).
+[Lancez le LMS](plateforme.html) et naviguez sur [http://localhost:8000](http://localhost:8000).
 
