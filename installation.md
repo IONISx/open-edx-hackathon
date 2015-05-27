@@ -4,9 +4,7 @@ Open edX release environ une fois par semaine.
 
 Il existe des releases *stables*, la dernière en date est [Birch](http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/birch.html).
 
-Open edX est composé de plusieurs applications, principalement LMS, Studio et des workers.
-
-Le code se trouve sur [GitHub](https://github.com/edx/edx-platform).
+Le code des différents composants de la plateforme se trouve sur [GitHub](https://github.com/edx/).
 
 Pour plus d’information sur l’installation d’Open edX, rendez-vous sur la [documentation officielle](http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/index.html).
 
@@ -36,6 +34,6 @@ curl -sL http://hack.ioni.sx/birch | sh
 
 La commande ci-dessus va installer une *devstack* Open edX, comprenant les composants de la plateforme suivants :
 
-* LMS
-* Studio
-* Forum
+* [LMS](https://github.com/edx/edx-platform)
+* [Studio](https://github.com/edx/edx-platform)
+* [Forum](https://github.com/edx/cs_comments_service)
