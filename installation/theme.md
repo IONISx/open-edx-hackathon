@@ -34,5 +34,5 @@ Enfin, lancez `grunt` et laissez-le tourner dans un terminal.
 
 Grunt va observer les changements sur les fichiers et automatiquement recompiler les fichiers qui seront utilisés par le LMS.
 
-[Lancez le LMS](platform.md) et naviguez sur [http://localhost:8000](http://localhost:8000).
+[Lancez le LMS](platforme.md) et naviguez sur [http://localhost:8000](http://localhost:8000).
 
