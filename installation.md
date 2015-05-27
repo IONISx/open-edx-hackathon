@@ -13,14 +13,6 @@ Pour plus d’information sur l’installation d’Open edX, rendez-vous sur la 
 
 ## Environnement de développement
 
-**tl;dr** : pour installer votre environnement de développement :
-
-```shell
-curl -sL http://hack.ioni.sx/birch | sh
-```
-
----
-
 Que vous soyez sur Mac, Windows ou Linux, nous vous conseillons d’utiliser une box [Vagrant](https://www.vagrantup.com/) pour installer votre environnement.
 
 Pour ce faire, installez [VirtualBox](https://www.virtualbox.org/wiki/Downloads), puis [Vagrant](https://www.vagrantup.com/downloads.html).
@@ -29,37 +21,15 @@ Une box Vagrant est simplement une machine virtuelle pré-configurée. Il est po
 
 Enfin, utiliser une box Vagrant vous permettra d’éviter d’installer toutes les dépendances d’Open edX sur votre machine.
 
----
 
-* Créez un nouveau dossier de travail sur votre machine :
+Créez un nouveau répertoire de travail :
 
- ```shell
- mkdir devstack && cd devstack
- ```
+```shell
+mkdir devstack && cd devstack
+```
 
-* Téléchargez le [Vagrantfile](http://hack.ioni.sx/openedx/Vagrantfile) (fichier de configuration de la box Vagrant) :
+Installez votre environnement de travail :
 
- ```shell
- curl -sL http://hack.ioni.sx/openedx/birch/Vagrantfile > Vagrantfile
- ```
-
-* Installez le plugin [vbguest](https://github.com/dotless-de/vagrant-vbguest) de Vagrant :
-
- ```shell
- vagrant plugin install vagrant-vbguest
- ```
- 
-* Définissez la variable d’environnement `OPENEDX_RELEASE` (détermine la version d’Open edX à installer) :
-
- ```shell
- export OPENEDX_RELEASE="named-release/birch"
- ```
- Si vous ne définissez pas cette variable, la dernière version d’Open edX sera installée.
-
-* Créez et démarrez la machine virtuelle :
-
- ```shell
- vagrant up
- ```
-
-* Il se peut que le mot de passe administrateur de votre machine soit demandé, si c’est le cas, saisissez-le.
+```shell
+curl -sL http://hack.ioni.sx/birch | sh
+```
