@@ -25,6 +25,59 @@ curl -sL http://hack.ioni.sx/birch | sh
 
 La commande ci-dessus va installer une *devstack* Open edX, comprenant les composants de la plateforme suivants :
 
-* [LMS](https://github.com/edx/edx-platform)
+* [LMS](https://github.com/edx/edx-platform) avec le [*responsive theme* IONISx](https://github.com/IONISx/edx-theme)
 * [Studio](https://github.com/edx/edx-platform)
 * [Forum](https://github.com/edx/cs_comments_service)
+ 
+## Gestion
+
+Une fois votre *devstack* Open edX installée, vous avez trois nouveaux répertoires dans votre dossier courant :
+
+* `edx-platform`
+* `themes`
+* `cs_comments_service`
+
+Ces répertoires sont les dépôts [Git](https://git-scm.com/) des différentes applications listées ci-dessus.
+Ils sont synchronisés avec votre machine virtuelle.
+
+Pour vous connecter à la machine virtuelle, entrez
+
+```shell
+vagrant ssh
+```
+
+### LMS
+
+Pour lancer le LMS, depuis votre machine virtuelle, connectez-vous avec l’utilisateur `edxapp` :
+
+```shell
+sudo su edxapp
+```
+
+Vous allez automatiquement être placé dans le répertoire `/edx/app/edxapp/edx-platform` (synchronisé avec le répertoire `edx-platform` sur votre machine physique).
+
+Lancez le LMS avec la commande suivante :
+
+```shell
+paver devstack lms
+```
+
+Vous pouvez maintenant naviguer sur le LMS, sur votre machine physique, en vous rendant sur [http://localhost:8000](http://localhost:8000).
+
+Vous pouvez vous authentifier avec un des utilisateurs suivants :
+
+| Nom d’utilisateur | Mot de passe |
+| -- | -- |
+| staff@example.com | edx |
+| honor@example.com | edx |
+| audit@example.com | edx |
+
+### Studio
+
+Pour lancer Studio, de la même manière que pour le LMS, lancez
+
+```shell
+paver devstack studio
+```
+
+Accédez à Studio, sur votre machine physique, en vous rendant sur [http://localhost:8001](http://localhost:8001).
