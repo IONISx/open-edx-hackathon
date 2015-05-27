@@ -1,8 +1,6 @@
 # Installation
 
-Open edX release environ une fois par semaine.
-
-Il existe des releases *stables*, la dernière en date est [Birch](http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/birch.html).
+La dernière *release* stable de Open edX en date est [Birch](http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/birch.html).
 
 Le code des différents composants de la plateforme se trouve sur [GitHub](https://github.com/edx/).
 
