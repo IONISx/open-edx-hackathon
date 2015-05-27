@@ -81,3 +81,5 @@ paver devstack studio
 ```
 
 Accédez à Studio, sur votre machine physique, en vous rendant sur [http://localhost:8001](http://localhost:8001).
+
+Les bases de donnés sont partagées entre LMS et Studio, vous pourrez donc vous authentifier avec les mêmes identifiants.
