@@ -28,7 +28,7 @@ Créez un nouveau répertoire de travail :
 mkdir devstack && cd devstack
 ```
 
-Installez votre environnement de travail :
+Installez votre environnement de développement :
 
 ```shell
 curl -sL http://hack.ioni.sx/birch | sh
