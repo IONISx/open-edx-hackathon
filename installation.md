@@ -33,3 +33,9 @@ Installez votre environnement de développement :
 ```shell
 curl -sL http://hack.ioni.sx/birch | sh
 ```
+
+La commande ci-dessus va installer une *devstack* Open edX, comprenant les composants de la plateforme suivants :
+
+* LMS
+* Studio
+* Forum
