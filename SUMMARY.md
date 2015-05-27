@@ -4,5 +4,5 @@
 * [Documentation](documentation.md)
 * [Installation](installation.md)
    * [Plateforme](installation/plateforme.md)
-   * Theme
+   * [Theme](installation/theme.md)
 
