@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Les MOOCs](moocs.md)
 * [Documentation](documentation.md)
+* [Les MOOCs](moocs.md)
 * [Installation](installation.md)
    * [Plateforme](installation/plateforme.md)
    * [Theme](installation/theme.md)
