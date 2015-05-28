@@ -16,7 +16,7 @@ Et Gradle :
 
 https://www.gradle.org/downloads
 
-Nous vous recommandons d’installer Java : Oracle JDK 7 (fonctionne à partir de la version 6 du JDK).
+Nous vous recommandons d’installer Java : [Oracle JDK 7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html).
 
 
 ### iOS
