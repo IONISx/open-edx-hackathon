@@ -7,5 +7,5 @@
    * [Plateforme](installation/plateforme.md)
    * [Theme](installation/theme.md)
    * [Mobile](installation/mobile.md)
-* MOOcs
+* [MOOcs](moocs.md)
 
