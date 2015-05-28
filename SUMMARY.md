@@ -5,5 +5,5 @@
 * [Installation](installation.md)
    * [Plateforme](installation/plateforme.md)
    * [Theme](installation/theme.md)
-   * Mobile
+   * [Mobile](installation/mobile.md)
 
