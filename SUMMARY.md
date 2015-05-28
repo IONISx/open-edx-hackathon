@@ -6,5 +6,5 @@
    * [Plateforme](installation/plateforme.md)
    * [Theme](installation/theme.md)
    * [Mobile](installation/mobile.md)
-* Les MOOCs
+* [Les MOOCs](moocs.md)
 
