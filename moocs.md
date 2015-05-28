@@ -4,7 +4,6 @@ Ce document a été rédigé par [Yoni Dayan](mailto:yoni@dayan.email) pour IONI
 
 Son objectif est de donner des éléments de compréhension pour les participants du Hackathon ne connaissant pas le milieu des MOOCs.
 
-
 ## C’est quoi un MOOC ?
 
 * Les cours en ligne ont étés l’une des premières applications d’internet, mais ils étaient généralement simplement constitués de vidéos de professeurs prises en salle de classe.
