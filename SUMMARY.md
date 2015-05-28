@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction2](README.md)
+* [Introduction](README.md)
 * [Documentation](documentation.md)
 * [Les MOOCs](moocs.md)
 * [Installation](installation.md)
