@@ -29,6 +29,12 @@ La commande ci-dessus va installer une *devstack* Open edX, comprenant les compo
 * [Studio](https://github.com/edx/edx-platform)
 * [Forum](https://github.com/edx/cs_comments_service)
  
+Pour installer une devstack sans le thème utilisez le script suivant :
+
+```shell
+curl -sL http://hack.ioni.sx/birch-themeless | sh
+```
+
 ## Gestion
 
 Une fois votre *devstack* Open edX installée, vous avez trois nouveaux répertoires dans votre dossier courant :
