@@ -1,47 +1,73 @@
 # Présentation des projets
 
-Les présentations des projets pour le hackathon se font en 3 temps :
+Les présentations des projets pour le hackathon se font en 4 temps :
 
-- Inscription du groupe
-- Présentation au jury spécialisé
-- Présentation au grand jury (le cas échéant)
+- Inscription
+- Passage devant jury spécialisé
+- Passage devant le grand jury (le cas échéant)
+- Délibération et remise des prix
 
 ## Etape 1 : Inscription
 
+[Un formulaire](https://docs.google.com/spreadsheets/d/1WPBrZpMJ2fzB2zjgbDu2AAMZuKvMw5MxJJ3UMf-DNyE/edit?usp=sharing) est disponible pour inscrire votre groupe.
+
+Heure limite des inscriptions : **15h15**
+
+## Etape 2 : Passage devant le jury spécialisé
+
+La présentation devant le jury se déroulera de la manière suivante :
+- Connexion au Hangout de la catégorie (**pendant la présentation du groupe précédent**)
+- Présentation de votre projet via screenshare (**4 min**)
+- Questions du jury (**2 min**)
+
+Les lauréats dans chaque catégorie seront annoncés peu à **17h** au plus tard.
+
+Voici les URL des Hangouts par catégorie :
+
+| Catégorie | URL |
+| -- | -- |
+| Activity | *TBD* |
+| AdminSys | *TBD* |
+| Data | *TBD* |
+| Design | *TBD* |
+| Mobile | *TBD* |
+| Video | *TBD* |
 
 
-La dernière *release* stable de Open edX en date est [Birch](http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/birch.html).
+*PS : nous vous recommandons d'ouvrir deux connexions vers le Hangout :*
+- 1 connexion avec un screenshare
+- 1 connexion avec camera sur votre porte-parole.
 
-Pour plus d’information sur l’installation d’Open edX, rendez-vous sur la [documentation officielle](http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/index.html).
+## Etape 3 : Passage devant le grand jury
 
-## Applications
+Les 6 lauréats (chacun dans sa catégorie) pourront présenter leur projet devant le grand jury, devant tous les hackers et tous les followers à distance #openedxhack (retransmission dans toutes les villes et sur YouTube).
 
-La plateforme Open edX est composée de plusieurs applications.
+Chaque groupe aura **2 min** pour préparer sa diffusion (avec le staff de sa ville).
 
-Le code des différents composants se trouve sur [GitHub](https://github.com/edx/).
+Attention : cette présentation devra durer **2 min** (*et non 4*).
 
+## Etape 4 : Délibération et remise des prix
 
-### LMS (Learning Management System)
+Le grand jury déterminera quel projet est le plus accompli selon les critères annoncés lors du kickoff.
 
-LMS est l’application principale d’Open edX, permettant aux apprenants (utilisateurs) de suivre les cours.
+## Les prix
 
-Il s’agit d’une application Django (Python).
+Chaque participant au hackathon recevra :
+- Un sticker *Open edX Hackathon 2015*
+- Un certificat vérifié IONISx sur n'importe quel cours
 
-[Installer le LMS](installation/plateforme.md).
+Chaque lauréat par catégorie recevra :
+- Un tshirt *Open edX*
+- Un certificat vérifié edX sur une sélection de MOOC sur [edx.org](http://edx.org)
 
+Le groupe "grand gagnant" recevra en plus :
+- 4 tablettes Android
+- 1 place pour participer avec les équipes IONISx/FUN au **Open edX Con 2015** (rassemblement annuel international de la communauté Open edX) qui aura lieu à Boston  en Octobre 2015 et se verra attribué un slot de présentation !
 
-### Studio (CMS – Content Management System)
+## Composition des jury
 
-Studio est l’application de création des cours et des contenus.
+La composition des jurys par catégories est disponible [sur le site officiel](http://hack.openedx.fr/jury.html).
 
-Il s’agit d’une application Django (Python).
+## Grand jury
 
-[Installer Studio](installation/plateforme.md).
-
-### Forum
-
-Le forum est très étroitement liée au LMS. Il s’agit d’une API [REST](http://fr.wikipedia.org/wiki/Representational_State_Transfer) en Ruby, exposant des donnés de discussions.
-
-Ces donnés sont ensuite affichées dans le LMS sous la forme de forums (un par cours).
-
-[Installer le forum](installation/plateforme.md).
+Il est composé de l'ensemble des membres des jurys spécialisés.
