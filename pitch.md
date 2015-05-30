@@ -24,14 +24,14 @@ Les lauréats dans chaque catégorie seront annoncés à **17h** au plus tard.
 
 Voici les URL des Hangouts par catégorie :
 
-| Catégorie | URL |
-| -- | -- |
-| Activity | *TBD* |
-| AdminSys | *TBD* |
-| Data | *TBD* |
-| Design | *TBD* |
-| Mobile | *TBD* |
-| Video | *TBD* |
+| Catégorie | For pitching groups | Watch on YouTube |
+| -- | -- | -- |
+| Activity | [press to pitch](https://plus.google.com/hangouts/_/hoaevent/AP36tYcyW58He-bYh7_vOKo8hbnygvCoHO_fB36bGqARhUbDuckNGQ) | [view](http://youtu.be/MIEvqCvXfMY) |
+| AdminSys | [press to pitch](https://plus.google.com/hangouts/_/hoaevent/AP36tYeE1ia4iRz-SdrAGCWfnII_7ZfiiXpZrxibmdz3lDpF7XJ_uA) | [view](http://www.youtube.com/watch?v=IjzI-rUbREQ) |
+| Data | [press to pitch](https://plus.google.com/hangouts/_/hoaevent/AP36tYdyztutdfqPzYHLBeaDSS-3LIRSdlKp_j4oUgC_NSdTdurYCg) | [view](http://www.youtube.com/watch?v=gCb_PEXkwiA) |
+| Design | no groups |  |
+| Mobile | [press to pitch](https://plus.google.com/hangouts/_/hoaevent/AP36tYctEc4l4cNpmY_bPkjjP3k6YQeyS0Qro3BEnJNWn4oKxhaa-g) | [view](http://www.youtube.com/watch?v=glNTwQ4JQtU) |
+| Video | [press to pitch](https://plus.google.com/hangouts/_/hoaevent/AP36tYcgHbm2yiQGpu00uRAjYzD2jY5OMof00SJW327VaJtk5Y7Nzg) | [view](http://www.youtube.com/watch?v=SqO4Fd9WVgs) |
 
 
 *PS : nous vous recommandons d'ouvrir deux connexions vers le Hangout :*
