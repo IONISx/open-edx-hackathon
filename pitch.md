@@ -20,7 +20,7 @@ La présentation devant le jury se déroulera de la manière suivante :
 - Présentation de votre projet via screenshare (**4 min**)
 - Questions du jury (**2 min**)
 
-Les lauréats dans chaque catégorie seront annoncés peu à **17h** au plus tard.
+Les lauréats dans chaque catégorie seront annoncés à **17h** au plus tard.
 
 Voici les URL des Hangouts par catégorie :
 
